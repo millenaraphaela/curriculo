@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0; /*espaçamento de fora */
+    padding: 1; /*espaçamneto de dentro*/
+
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+#nome {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.subtitulo {
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+li {
+    font-size: 20px;
+}
